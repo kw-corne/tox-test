@@ -2,7 +2,7 @@ from adders_test import adders
 
 
 def test_add_one():
-    assert adders.add_one(2) == 3
+    assert adders.add_one(2) == 30
 
 
 def test_add_two():
